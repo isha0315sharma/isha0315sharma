@@ -119,7 +119,6 @@ Third Year B.Tech Computer Science Engineering Student at Chitkara University
 ---
 
 <h3 align="center">💜 Thanks for Visiting My Profile 💜</h3>
-
 <p align="center">
 <i>"Success isn't about luck. It's about learning, improving, and showing up every single day."</i>
 </p>
